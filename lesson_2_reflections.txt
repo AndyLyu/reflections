@@ -3,7 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+	暂存区是一个中间状态 将工作目录中的文件放入暂存区(git add)　然后这些文件开始被跟踪　再用git commit 来提交更改 然后会清空工作目录和暂存区
 How can you use the staging area to make sure you have one commit per logical
 change?
 
